@@ -11,10 +11,10 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - 🎯 [Player-Club Fit Model & Squad Optimizer(Coming Soon)](#)  
   A recommendation engine + financial optimizer for football clubs using performance + market data
 
-- 📊 [Sales Dashboard – Power BI](https://github.com/yourusername/sales-data-analysis-powerbi)  
+- 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)  
   A clean, slicer-powered retail dashboard built from simulated data — KPIs, customer value, top products
 
-- 🌍 [COVID-19 Global Trends](#)  
+- 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)  
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
 - 🎵 [Music Streaming Database Design(Coming Soon)](#)  
