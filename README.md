@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nsikan (Kan)
 
-Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Mathematics and a Master’s in Big Data Analytics from Trent University. I love building smart, real-world tools that bring data to life — blending machine learning, dashboards, and storytelling to uncover what the numbers are really saying.
+Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Mathematics and a Master’s in Big Data Analytics from Trent University. I love building smart, real-world tools that bring data to life, blending machine learning, dashboards, and storytelling to uncover what the numbers are really saying.
 
 ### 🔬 What I'm Working On
 - Helping football clubs make smarter recruitment decisions with ML-powered player fit models  
