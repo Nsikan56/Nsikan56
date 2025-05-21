@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)  
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
-- 🎵 [Music Streaming Database Design(Coming Soon)](https://github.com/Nsikan56/Music_Streaming_Database)  
+- 🎵 [Music Streaming Database Design](https://github.com/Nsikan56/Music_Streaming_Database)  
   MySQL + ERD-based schema for a streaming app with playlists, profiles, and CRUD operations
 
 ### 🧰 Tools I Work With
