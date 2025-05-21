@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - Wrangling data with *Python, **SQL*, and cloud tools to uncover patterns and insights
 
 ### 💼 Project Highlights
-- 🎯 [Player-Club Fit Model & Squad Optimizer(Coming Soon)](https://github.com/Nsikan56/Music_Streaming_Database)  
+- 🎯 [Player-Club Fit Model & Squad Optimizer(Coming Soon)](#)  
   A recommendation engine + financial optimizer for football clubs using performance + market data
 
 - 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)  
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)  
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
-- 🎵 [Music Streaming Database Design(Coming Soon)](#)  
+- 🎵 [Music Streaming Database Design(Coming Soon)](https://github.com/Nsikan56/Music_Streaming_Database)  
   MySQL + ERD-based schema for a streaming app with playlists, profiles, and CRUD operations
 
 ### 🧰 Tools I Work With
