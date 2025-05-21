@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - 📊 [Sales Dashboard – Power BI](https://github.com/yourusername/sales-data-analysis-powerbi)  
   A clean, slicer-powered retail dashboard built from simulated data — KPIs, customer value, top products
 
-- 🌍 [COVID-19 Global Trends (Coming Soon)](#)  
+- 🌍 [COVID-19 Global Trends](#)  
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
 - 🎵 [Music Streaming Database Design(Coming Soon)](#)  
