@@ -29,5 +29,5 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 
 ---
 
-📬 You can contact me via [Email](nsikanumoh56@gmail.com)  
+📬 You can contact me via [Email](mailto:yourname@example.com)  
 📄 Resume available upon request or in pinned repos
