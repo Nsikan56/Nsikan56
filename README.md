@@ -29,5 +29,5 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 
 ---
 
-📬 Find me on [LinkedIn](https://linkedin.com/in/your-profile)  
+📬 You can contact me via [Email](nsikanumoh56@gmail.com)  
 📄 Resume available upon request or in pinned repos
