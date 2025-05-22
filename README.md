@@ -9,19 +9,6 @@
 
 ---
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Nsikan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nsikan56&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsikan56&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 👋 Hi, I’m Nsikan (Kan)
-
 Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Mathematics and a Master’s in Big Data Analytics from Trent University. I love building smart, real-world tools that bring data to life, blending machine learning, dashboards, and storytelling to uncover what the numbers are really saying.
 
 ### 🔬 What I'm Working On
@@ -53,3 +40,14 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 
 📬 You can contact me via [Email](mailto:nsikanumoh56@gmail.com)  
 📄 Resume available upon request 
+
+---
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Nsikan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nsikan56&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsikan56&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
