@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - Wrangling data with *Python, **SQL*, and cloud tools to uncover patterns and insights
 
 ### 💼 Project Highlights
-- 🎯 [Player-Club Fit Model & Squad Optimizer(Coming Soon)](#)  
+- 🎯 [Player-Club Fit Model & Squad Optimizer(Coming Soon)](https://github.com/Nsikan56/Player-Recommendation-App)  
   A recommendation engine + financial optimizer for football clubs using performance + market data
 
 - 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)  
