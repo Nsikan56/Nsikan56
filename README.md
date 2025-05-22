@@ -7,8 +7,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Data+Enthusiast+%26+ML+Engineer;Building+Smart+Real-World+Tools;Bringing+Data+to+Life&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=58A6FF" alt="Typing SVG" />
 </div>
 
----
-
 Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Mathematics and a Master’s in Big Data Analytics from Trent University. I love building smart, real-world tools that bring data to life, blending machine learning, dashboards, and storytelling to uncover what the numbers are really saying.
 
 ### 🔬 What I'm Working On
