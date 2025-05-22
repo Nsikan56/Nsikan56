@@ -1,3 +1,25 @@
+<div align="center">
+ <h1>
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+   Hi, I'm Nsikan (Kan)
+ </h1>
+ 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Data+Enthusiast+%26+ML+Engineer;Industrial+Mathematics+Graduate;Big+Data+Analytics+Master's;Building+Smart+Real-World+Tools;Bringing+Data+to+Life&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=58A6FF" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Nsikan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nsikan56&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsikan56&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 # 👋 Hi, I’m Nsikan (Kan)
 
 Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Mathematics and a Master’s in Big Data Analytics from Trent University. I love building smart, real-world tools that bring data to life, blending machine learning, dashboards, and storytelling to uncover what the numbers are really saying.
