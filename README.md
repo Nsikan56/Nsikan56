@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 
 ### 💼 Project Highlights
 - 🎯 [Player-Club Fit Model & Squad Optimizer](https://github.com/Nsikan56/Player-Recommendation-App)
-  *Python • Scikit-learn • PuLP*  
+   *Python • Scikit-learn • PuLP*  
   A recommendation engine + financial optimizer for football clubs using performance + market data
 
 - 🎶 [ChartBot - Billboard Music Assistant](https://github.com/Nsikan56/Chartbot_chatbot)  
@@ -24,15 +24,15 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
   AI chatbot analyzing 60+ years of Billboard data using FLAN-T5 and hybrid parsing  
 
 - 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)
-  *DAX • Power Query*  
+   *DAX • Power Query*  
   A clean, slicer-powered retail dashboard built from simulated data — KPIs, customer value, top products
 
 - 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)
-  *Tableau • SQL* 
+   *Tableau • SQL* 
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
 - 🎵 [Music Streaming Database Design](https://github.com/Nsikan56/Music_Streaming_Database)
-  *MySQL • ERD* 
+   *MySQL • ERD* 
   MySQL + ERD-based schema for a streaming app with playlists, profiles, and CRUD operations
 
 ### 🧰 Tools I Work With
