@@ -47,6 +47,9 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 **BI Tools**:  
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)  
 
+**Other Tools**:  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-F59D00?logo=lucidchart&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-007CC3?logo=sas&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+
 ---
 📬 You can contact me via [Email](mailto:nsikanumoh56@gmail.com)  
 📄 Resume available upon request 
