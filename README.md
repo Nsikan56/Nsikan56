@@ -15,24 +15,33 @@ Welcome to my GitHub! I'm a data enthusiast with a background in Industrial Math
 - Wrangling data with *Python, **SQL*, and cloud tools to uncover patterns and insights
 
 ### 💼 Project Highlights
-- 🎯 [Player-Club Fit Model & Squad Optimizer](https://github.com/Nsikan56/Player-Recommendation-App)  
+- 🎯 [Player-Club Fit Model & Squad Optimizer](https://github.com/Nsikan56/Player-Recommendation-App)
+  *Python • Scikit-learn • PuLP*  
   A recommendation engine + financial optimizer for football clubs using performance + market data
 
-- 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)  
+- 🎶 [ChartBot - Billboard Music Assistant](https://github.com/Nsikan56/Chartbot_chatbot)  
+  *Transformers • Streamlit • Fuzzy Matching*  
+  AI chatbot analyzing 60+ years of Billboard data using FLAN-T5 and hybrid parsing  
+
+- 📊 [Sales Dashboard – Power BI](https://github.com/Nsikan56/Sales-Data-Analysis-Powerbi)
+  *DAX • Power Query*  
   A clean, slicer-powered retail dashboard built from simulated data — KPIs, customer value, top products
 
-- 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)  
+- 🌍 [COVID-19 Global Trends](https://github.com/Nsikan56/Covid19-global-dashboard)
+  *Tableau • SQL* 
   A Tableau dashboard visualizing cases, deaths, and vaccine rollouts around the world
 
-- 🎵 [Music Streaming Database Design](https://github.com/Nsikan56/Music_Streaming_Database)  
+- 🎵 [Music Streaming Database Design](https://github.com/Nsikan56/Music_Streaming_Database)
+  *MySQL • ERD* 
   MySQL + ERD-based schema for a streaming app with playlists, profiles, and CRUD operations
 
 ### 🧰 Tools I Work With
-*Languages*: Python, R, SQL  
+*Languages*: Python, R, SQL
+*ML/NLP*: PyTorch, Transformers, Scikit-learn, FuzzyWuzzy  
 *Libraries*: Pandas, Scikit-learn, Matplotlib, PySpark  
 *BI Tools*: Power BI, Tableau, Alteryx, Looker  
 *Data Engineering*: Azure Databricks, Snowflake, Hive, Kafka  
-*Other*: Git, MySQL, Lucidchart, SAS, Excel, Tkinter
+*Other*: Git, MySQL, Lucidchart, SAS, Excel, Tkinter, Streamlit, FastAPI
 
 ---
 
